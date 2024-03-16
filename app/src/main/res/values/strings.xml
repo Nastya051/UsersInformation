@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">UsersInfo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update">Update</string>
+
+    <string name="gender">Gender:&#032;</string>
+    <string name="title">Title:&#032;</string>
+    <string name="first">First&#032;name:&#032;</string>
+    <string name="last">Last&#032;name:&#032;</string>
+    <string name="numberStr">Street&#032;number:&#032;</string>
+    <string name="nameStr">Street&#032;name:&#032;</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="country">Country:</string>
+    <string name="postcode">Postcode:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="offset">Offset:</string>
+    <string name="description">Description:</string>
+    <string name="email">email:</string>
+    <string name="uuid">uuid:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="salt">Salt:</string>
+    <string name="md5">md5:</string>
+    <string name="sha1">sha1:</string>
+    <string name="sha256">sha256:</string>
+    <string name="dateBirth">Birth&#032;date:&#032;</string>
+    <string name="ageBirth">Age:</string>
+    <string name="dateRegis">Registered&#032;date:&#032;</string>
+    <string name="ageRegis">Registered&#032;age:&#032;</string>
+    <string name="phone">Phone:</string>
+    <string name="idName">idName:</string>
+    <string name="idValue">idValue:</string>
+    <string name="cell">Cell:</string>
+    <string name="name">Name:</string>
+    <string name="value">Value:</string>
+    <string name="nat">Nat:</string>
+    <string name="seed">Seed:</string>
+    <string name="results">Results:</string>
+    <string name="page">Page:</string>
+    <string name="version">Version:</string>
+
+</resources>
